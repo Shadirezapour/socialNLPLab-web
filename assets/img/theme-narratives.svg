@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Illustration of online narratives and information environments">
-  <rect width="240" height="180" rx="18" fill="#fbfaf7"/>
-  <rect x="48" y="34" width="104" height="118" rx="8" fill="#fff" stroke="#d9dde1"/>
-  <rect x="72" y="26" width="106" height="120" rx="8" fill="#f8fbfd" stroke="#cfd8df"/>
-  <path d="M90 52h67M90 66h52M90 102h67M90 116h43" stroke="#9aa7b2" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="90" cy="84" r="5" fill="#315f8a"/><circle cx="108" cy="84" r="5" fill="#8d2745"/><circle cx="126" cy="84" r="5" fill="#6c7e72"/>
-  <path d="M160 95h34a10 10 0 0 1 10 10v14a10 10 0 0 1-10 10h-12l3 11-14-11h-11a10 10 0 0 1-10-10v-14a10 10 0 0 1 10-10Z" fill="#f1e6e9" stroke="#8d2745"/>
-  <path d="M52 117h35a9 9 0 0 1 9 9v12a9 9 0 0 1-9 9H72l-11 9 3-9H52a9 9 0 0 1-9-9v-12a9 9 0 0 1 9-9Z" fill="#e7eef5" stroke="#315f8a"/>
-</svg>

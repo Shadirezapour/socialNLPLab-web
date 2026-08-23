@@ -1,1 +1,0 @@
-Add syllabus PDFs here using the filenames referenced in pages/teaching.html.
