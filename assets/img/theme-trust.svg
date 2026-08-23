@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Illustration of trust and generative AI">
+  <rect width="240" height="180" rx="18" fill="#fbfaf7"/>
+  <path d="M120 35v88" stroke="#5d6670" stroke-width="2"/>
+  <path d="M71 66h98" stroke="#5d6670" stroke-width="2"/>
+  <circle cx="120" cy="58" r="6" fill="#315f8a"/>
+  <path d="M84 68 62 108h44L84 68Z" fill="#e7eef5" stroke="#315f8a" stroke-width="1.5"/>
+  <path d="M156 68 134 108h44L156 68Z" fill="#f1e6e9" stroke="#8d2745" stroke-width="1.5"/>
+  <path d="M52 108h64c-2 17-13 26-32 26s-30-9-32-26ZM124 108h64c-2 17-13 26-32 26s-30-9-32-26Z" fill="none" stroke="#adb5bc" stroke-width="1.5"/>
+  <path d="M91 140h58" stroke="#5d6670" stroke-width="2"/><path d="M103 123h34l8 17H95l8-17Z" fill="#ece9e1"/>
+  <path d="M186 40l4 9 10 3-10 4-4 9-4-9-10-4 10-3 4-9Z" fill="#d5b9c2"/>
+</svg>

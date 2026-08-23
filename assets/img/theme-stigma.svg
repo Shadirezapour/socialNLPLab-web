@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Illustration of lived experiences, stigma, and public health">
+  <rect width="240" height="180" rx="18" fill="#fbfaf7"/>
+  <circle cx="74" cy="86" r="30" fill="#e7eef5"/>
+  <circle cx="164" cy="76" r="28" fill="#f1e6e9"/>
+  <circle cx="126" cy="125" r="25" fill="#edf2ec"/>
+  <path d="M57 92c8-20 26-30 44-24 10 3 18 10 23 19" fill="none" stroke="#315f8a" stroke-width="2"/>
+  <path d="M143 84c8-18 24-27 40-22 10 3 17 9 22 18" fill="none" stroke="#8d2745" stroke-width="2"/>
+  <path d="M108 132c8-15 21-23 35-19 9 2 16 8 20 16" fill="none" stroke="#6c7e72" stroke-width="2"/>
+  <path d="M97 56h48" stroke="#cfd8df" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <path d="M92 105l25 15M149 101l-16 19" stroke="#cfd8df" stroke-width="1.5"/>
+  <circle cx="72" cy="78" r="4" fill="#315f8a"/><circle cx="163" cy="69" r="4" fill="#8d2745"/><circle cx="124" cy="119" r="4" fill="#6c7e72"/>
+  <path d="M43 39h58a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10H75l-12 9 3-9H43a10 10 0 0 1-10-10V49a10 10 0 0 1 10-10Z" fill="#fff" stroke="#d9dde1"/>
+  <circle cx="53" cy="55" r="2" fill="#8d2745"/><circle cx="63" cy="55" r="2" fill="#8d2745"/><circle cx="73" cy="55" r="2" fill="#8d2745"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Illustration of relational AI and mental health">
+  <rect width="240" height="180" rx="18" fill="#fbfaf7"/>
+  <path d="M61 48c-17 0-31 13-31 30s14 30 31 30c7 0 13-2 18-6l14 8-5-17c3-5 5-10 5-15 0-17-14-30-32-30Z" fill="#e7eef5" stroke="#315f8a" stroke-width="1.5"/>
+  <path d="M175 69c18 0 32 12 32 28 0 15-14 28-32 28-6 0-12-2-17-5l-14 8 4-16c-3-4-5-9-5-15 0-16 14-28 32-28Z" fill="#f1e6e9" stroke="#8d2745" stroke-width="1.5"/>
+  <circle cx="59" cy="77" r="3" fill="#315f8a"/><circle cx="70" cy="77" r="3" fill="#315f8a"/><circle cx="81" cy="77" r="3" fill="#315f8a"/>
+  <circle cx="163" cy="97" r="3" fill="#8d2745"/><circle cx="174" cy="97" r="3" fill="#8d2745"/><circle cx="185" cy="97" r="3" fill="#8d2745"/>
+  <circle cx="119" cy="88" r="8" fill="#315f8a"/><circle cx="119" cy="132" r="8" fill="#8d2745"/><circle cx="94" cy="112" r="6" fill="#728aa0"/><circle cx="146" cy="112" r="6" fill="#a66b7b"/>
+  <path d="M119 96v28M101 108l12-14M137 108l-12-14M101 115l12 12M137 115l-12 12" stroke="#c9d3dc" stroke-width="1.5"/>
+</svg>
