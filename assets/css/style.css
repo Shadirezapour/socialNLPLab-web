@@ -253,3 +253,33 @@ section{padding:48px 0}.soft{background:transparent;border-top:1px solid var(--l
   .contact-social-icons a { width: 28px; height: 28px; }
   .contact-social-icons svg { width: 17px; height: 17px; }
 }
+/* --- Final Mobile Hero Overrides --- */
+@media (max-width: 560px) {
+    .hero-grid {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        text-align: center !important;
+        gap: 18px !important;
+    }
+    
+    /* Release the grid constraints */
+    .portrait-wrap, .hero-copy {
+        grid-column: auto !important;
+        grid-row: auto !important;
+    }
+    
+    /* Properly size and center the photo */
+    .hero-photo {
+        width: 120px !important;
+        height: 120px !important;
+        margin: 0 auto !important;
+        display: block !important;
+    }
+    
+    /* Center the social icons to match the centered text */
+    .social-icons {
+        justify-content: center !important;
+        margin-top: 15px !important;
+    }
+}
